@@ -3,7 +3,7 @@ title: Welcome to ${appName}
 description: Early Buddhist Texts for reading and listening
 img: pexels-philippe-donn-1133957.png
 img-alt: Hummingbird reaching to drink nectar from flowers
-category: 1. General
+category: 1. SC-Voice
 order: 1
 ---
 
