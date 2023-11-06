@@ -7,6 +7,7 @@ link: [https://pixabay.com/photos/hammer-719066](https://unsplash.com/photos/JFk
 category: Additional information
 order: 9999
 ---
+
 ### Security and Privacy
 
 This website does not store any personally identifiable information.
