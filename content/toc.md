@@ -1,5 +1,5 @@
 ---
-title: Wiki contents
+title: Table of contents
 description: Wiki contents
 img: lotus-flower-nymphaea-caerulea-215460.jpg
 img-alt: Lotus flower
