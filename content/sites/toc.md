@@ -5,8 +5,8 @@ img: brett-zeck-eyfMgGvo9PA-unsplash.png
 img-alt: A picture of the world
 link: https://unsplash.com/photos/brown-wooden-map-board-eyfMgGvo9PA
 slugDir: sites
-category: 1. General
-order: 2
+category: 2. Additional information
+order: 9997
 ---
 ### Contents
 Websites for Early Buddhist Texts found on [SuttaCentral](https://suttacentral.net)
