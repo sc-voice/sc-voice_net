@@ -3,7 +3,7 @@ title: EBT Websites
 description: Websites for Early Buddhist Texts
 img: brett-zeck-eyfMgGvo9PA-unsplash.png
 img-alt: A picture of the world
-link: https://unsplash.com/photos/brown-wooden-map-board-eyfMgGvo9PA
+link: https://ebt-site.github.io/ebt-site/brett-zeck-eyfMgGvo9PA-unsplash.png
 slugDir: sites
 category: 2. Additional information
 order: 9997
