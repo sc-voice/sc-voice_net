@@ -8,5 +8,5 @@ category: 1. General
 order: 1
 ---
 
-### Ebt-Vue3 contents
+### What you find in the SC-Voice Wiki
 
