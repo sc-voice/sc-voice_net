@@ -4,7 +4,7 @@ description: How to use SC-Voice
 img: pixabay-literature-3091212_640.png
 img-alt: books with cup of tea
 slugDir: study
-category: SC-Voice
+category: 1. SC-Voice
 order: 2
 ---
 
