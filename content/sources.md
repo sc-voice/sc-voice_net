@@ -3,7 +3,7 @@ title: Sources
 description: Information on sources for audio and images
 img: pexels-magicbowls-3543916.png
 img-alt: singing bowl being hit
-category: Additional information
+category: 2. Additional information
 link: https://www.pexels.com/photo/woman-holding-a-wooden-stick-and-a-bowl-3543916/
 order: 9998
 ---
