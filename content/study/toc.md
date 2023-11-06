@@ -2,6 +2,7 @@
 title: Sutta study with SC-Voice
 description: How to use SC-Voice
 img: pixabay-literature-3091212_640.png
+link: https://ebt-site.github.io/ebt-site/pixabay-literature-3091212_640.png
 img-alt: books with cup of tea
 slugDir: study
 category: 1. SC-Voice
