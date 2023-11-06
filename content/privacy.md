@@ -1,9 +1,9 @@
 ---
 title: Privacy
-description: for legal requirements
+description: EBT-Sites privacy policy
 img: jason-dent-JFk0dVyvdvw-unsplash.png
-img-alt: privacy please
-link: [https://pixabay.com/photos/hammer-719066](https://unsplash.com/photos/JFk0dVyvdvw)
+link: https://unsplash.com/photos/JFk0dVyvdvw
+img-alt: Privacy please
 category: Additional information
 order: 9999
 ---
