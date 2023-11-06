@@ -1,6 +1,6 @@
 ---
-title: Privacy
-description: EBT-Sites privacy policy
+title: Privacy and licenses
+description: Information required by law
 img: jason-dent-JFk0dVyvdvw-unsplash.png
 link: https://unsplash.com/photos/JFk0dVyvdvw
 img-alt: Privacy please
@@ -21,3 +21,13 @@ using browser storage:
 * text of EBT documents loaded
 * audio of EBT documents narrated
 * your website custom settings
+
+### Licences
+
+**EBT-Site software**
+The EBT-Site application software is provided under the
+[MIT License](https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE)
+
+**SuttaCentral content**
+All Dhamma content provided on EBT-Sites is 
+[licensed by SuttaCentral](https://suttacentral.net/licensing)
