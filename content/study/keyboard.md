@@ -1,6 +1,6 @@
 ---
-title: Keyboard Shortcuts
-description: Save time with keyboard shortcust
+title: Keyboard
+description: Save time with keyboard shortcuts
 img: sergi-kabrera-2xU7rYxsTiM-unsplash.png
 img-alt: picture of keyooard
 link: https://unsplash.com/photos/2xU7rYxsTiM
@@ -25,6 +25,8 @@ Each card has a **tab** that can be clicked to scroll to the associated card.
 <p>
 <img src="img/tabs.png" class="ebt-image" alt="image of card tabs" style="width:400px;"/>
 </p>
+
+The tab that's currently in focus has a colored underline. When a Sutta card is in focus, a play module appears at the bottome of the screen.
 
 ### Keyboard navigation
 
