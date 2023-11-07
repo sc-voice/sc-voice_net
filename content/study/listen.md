@@ -12,7 +12,7 @@ The play module appears at the bottom of the screen when a Sutta card is opened.
 <p><img src="img/play.png" class="ebt-image" alt="screenshot of play module" style="width: 400px;"></p>
 
 **Segment play:**
-A text segment in focus can be played by clicking the left play button in the play module or by pressing the space key. When finished, the focus moves to the next segment or, when the end of the Sutta is reached, a bell sound is played. 
+A text segment in focus can be played by clicking the left play button in the play module or by pressing the space bar. When finished, the focus moves to the next segment or, when the end of the Sutta is reached, a bell sound is played. 
 
 **Continuous play:**
 Clicking the right play button in the play module or pressing `ENTER` starts continuous play from the segment in focus to the end of the Sutta where a bell sound marks the end. 
