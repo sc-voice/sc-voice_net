@@ -18,6 +18,6 @@ SC-Voice is a website for the study of Early Buddhist Texts (EBT) from [SuttaCen
 
 Learn more on how to use SC-Voice in order to study Buddhist texts: [to Wiki ToC](#/wiki/toc)
 
-### Privacy
+### Privacy and licenses
 
-Find [here](#/wiki/privacy) our privacy information.
+Find [here](#/wiki/privacy) our privacy and license information.
