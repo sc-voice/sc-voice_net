@@ -30,7 +30,7 @@ You can also enter free text into the search field or search Suttas by ID, for e
 
 ### 3. Go to next/previous Sutta or to SuttaCentral
 
-Find links to the next or previous Sutta according the order of the canon as well as a link to the respective text on SuttaCentral both at the top and the bottom of the Sutta card. 
+Find links to the next or previous Sutta according to the order of the canon as well as a link to the respective text on SuttaCentral both at the top and the bottom of the Sutta card. 
 
 ### 4. Comparing Suttas
 
@@ -44,9 +44,9 @@ When you click into a segment it will be highlighted.
 
 At the same time the segment ID appears in the middle of the play module at the bottom of your screen. When clicking on it you can move to the segment that has been last highlighted from any place in the text. 
 
-Even if you come backto this text from a different Sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
+Even if you come back to this text from a different Sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
 
-### 6. Sesarch terms within the text
+### 6. Search terms within the text
 The example terms used by SC-Voice are highlighted when they occur in a text as soon as you reach the respective segment. This way you can easily find interesting terms that invite a comparison between different texts. The terms have links. When clicking them, a search card opens up with Suttas that have this term. 
 
 
