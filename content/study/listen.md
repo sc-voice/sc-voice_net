@@ -1,6 +1,6 @@
 ---
-title: Search the Suttas
-description: How to find what you are looking for
+title: Listen to the Suttas
+description: SC-Voice audio output
 img: alphacolor-2FxEBbEO6Fo-unsplash.png
 img-alt: image of earphones
 link: https://unsplash.com/photos/2FxEBbEO6Fo
