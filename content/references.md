@@ -1,6 +1,6 @@
 ---
-title: Sources
-description: Information on sources for audio and images
+title: References
+description: Source information for audio and images
 img: pexels-magicbowls-3543916.png
 img-alt: singing bowl being hit
 category: 2. Additional information
@@ -10,17 +10,17 @@ order: 9998
 
 ### Images
 
-Images have a link to their source, unless they are own images.
+Unless otherwise specified, all image sources are linked from the individual image.
 
 ### EBT audio
 
-EBT audio is purchased from *Amazon Web Services*'s Polly service and are provided without restriction.
+EBT audio is purchased from Amazon Web Services Polly service and is shared without restriction.
 
-Where available, we also use human audio recordings. With special thanks to Bhikkhu Sujato for the recordings and MichaelH of the SuttaCentral team for audio editing.
+Where possible, we have included human audio. In particular, many thanks to Bhikkhu Sujato for the recordings and MichaelH of SuttaCentral for audio editing.
 
-### App sounds
+### Application sounds
 
-If  not otherwise specified, all sounds used for the interface of tis website are from [*freesound.org*](https://freesound.org/search/?q=click). Many sounds have been adapted for purpose.
+Unless otherwise specified, all user interface sounds used on this website were sourced from [*freesound.org*](https://freesound.org/search/?q=click). Many sounds have been modified for purpose.
 
 - [indian-bell-flemur-sampling-plus-1.0.mp3](https://freesound.org/people/Flemur/sounds/103312)
 - [jetrye-bell-meditation-cleaned-CC0.mp3](https://freesound.org/people/JetRye/sounds/140128/)
