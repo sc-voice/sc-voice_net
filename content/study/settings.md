@@ -4,7 +4,7 @@ description: Customize your SC-Voice
 img: zoltan-tasi-CLJeQCr2F_A-unsplash.png
 img-alt: image of little gear wheels
 link: https://unsplash.com/photos/CLJeQCr2F_A
-order: 4
+order: 5
 ---
 
 Behind the little gear wheel in the top right corner you find several settings that you may change so that they fit your wishes. 
