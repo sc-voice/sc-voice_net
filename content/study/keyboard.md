@@ -33,7 +33,7 @@ The tab that's currently in focus has a colored underline. When a Sutta card is 
 The buttons here are from left to right: 
 - to previous segment
 - play segment in focus; pause play 
-- go to highlighted segment 
+- to highlighted segment 
 - continuous play from segment in focus; pause play
 - to next segment
 
