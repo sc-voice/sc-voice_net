@@ -37,7 +37,7 @@ Good question! The Buddhist canon is indeed anything but clearly arranged. It is
 
 ### Some suggestions for the start
 
-Here follow a couple of essays and by Bhikkhu Sujato that may be helpful for getting started.
+Here follow a couple of essays and that may be helpful for getting started.
 
 - [How to read the Suttas](https://discourse.suttacentral.net/t/how-to-read-the-suttas/6676) by Bhikkhu Sujato
 - [Top ten Suttas](https://discourse.suttacentral.net/t/top-ten-suttas-and-ten-more-to-read-as-well/12978) by Bhikkhu Sujato
