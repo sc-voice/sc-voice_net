@@ -28,6 +28,8 @@ Each card has a **tab** that can be clicked to scroll to the associated card.
 
 The tab that's currently in focus has a colored underline. When a Sutta card is in focus, a play module appears at the bottome of the screen.
 
+<p><img src="img/play.png" class="ebt-image" alt="screenshot of play module" style="width: 400px;"></p>
+
 ### Keyboard navigation
 
 | Card | Key | Function |
