@@ -7,7 +7,7 @@ link: https://unsplash.com/photos/psV7OMIL-iw
 order: 4
 ---
 
-### Some Q&A fist
+### Some Q&A first
 
 #### What did the Buddha teach first?
 
