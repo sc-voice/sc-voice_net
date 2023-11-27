@@ -14,11 +14,7 @@ If you don't know where to start click on the `INSPIRE ME!` button. This will se
 
 <p><img src="img/result.png" class="ebt-image" alt="screenshot of search result" style="width: 600px;"></p>
 
-Click on one of the Sutta results to expand the view: Next to the Sutta identifier you can read a blurb in most cases. Underneath you find a list of the segments in which the search term occurs.
-
-<p><img src="img/result-segment.png" class="ebt-image" alt="screenshot of result segment" style="width: 600px;"></p>
-
-Click either on the main Sutta ID or on a segment ID in order to open a Sutta card and go to the respective passage. 
+Under the title of the Sutta you can see a blurb in most cases, and underneath a segment that contains the search phrase and where you can also go directly.
 
 ### 2. Typing into the search field
 
