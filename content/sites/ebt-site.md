@@ -18,7 +18,9 @@ EBT-Site is the template for creating a custom website based on EBT-Vue3.
 To create your own EBT website:
 
 1. Login to [Github](https://github.com/)
-1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your own account
+1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) 
+[this repository](https://github.com/sc-voice/sc-voice_net)
+to your own account.
 1. Customize ```ebt-config.mjs```
 1. Commit your changes to Github 
 1. Enable [Github Pages](https://docs.github.com/en/pages)
