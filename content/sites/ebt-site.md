@@ -19,7 +19,8 @@ To create your own EBT website:
 
 1. Login to [Github](https://github.com/)
 1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) 
-[this repository](https://github.com/sc-voice/sc-voice_net)
+the 
+[sc-voice_net](https://github.com/sc-voice/sc-voice_net)
 to your own account.
 1. Customize ```ebt-config.mjs```
 1. Commit your changes to Github 
