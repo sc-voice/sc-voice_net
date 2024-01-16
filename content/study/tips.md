@@ -33,7 +33,7 @@ Read and *listen to* [Snp 1.8](#/sutta/snp1.8:0.1/en/sujato) or [Kp 9](#/sutta/k
 
 #### Why is the canon so confusing?
 
-Good question! The Buddhist canon is indeed anything but clearly arranged. It is ordered neither chronologically nor in a didactic way. The order we find today is explained by the history of its formation. The canon emerged from an oral tradition where it was crucial to compile collections of text of a suitable size so that it could be memorized and passed on by different groups of reciters; each collection was supposed to contain the central teaching topics. The result seems rather chaotic to us today and doesn't offer a good guiding principle for study.
+Good question! The Buddhist canon is indeed anything but clearly arranged. It is ordered neither chronologically nor in a didactic way. The order we find today is explained by the history of its formation. The canon emerged from an oral tradition where it was crucial to compile collections of text of a suitable size so that it could be memorized and passed down by different groups of reciters; each collection was supposed to contain the central teaching topics. The result seems rather chaotic to us today and doesn't offer a good guiding principle for study.
 
 ### Some suggestions for the start
 
