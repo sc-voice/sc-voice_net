@@ -21,7 +21,7 @@ Behind the little gear wheel in the top right corner you find several settings t
 - Tick what you wish to see on your screen
 - When selecting “Show alternate reference”, also select a language and translator 
 - “Line by line” is an alternate view to column view; it is set automatically on small screens like cellphones  
-- “Show SuttaCentral segment IDs” is required for certain functions like for example jumping to the first segment of a larger paragraph (see [Keyboard navigation](#/wiki/study/keyboard)
+- “Show SuttaCentral segment IDs” is required for certain functions like for example jumping to the first segment of a larger paragraph (see [Keyboard navigation](#/wiki/study/keyboard))
 
 **Narrator** 
 - Select a narrator for your translation language and for Pali; for reference texts there's no narrator available 
