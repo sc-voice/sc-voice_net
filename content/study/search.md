@@ -14,7 +14,7 @@ If you don't know where to start click on the `INSPIRE ME!` button. This will se
 
 <p><img src="img/result.png" class="ebt-image" alt="screenshot of search result" style="width: 600px;"></p>
 
-Under the title of the Sutta you can see a blurb in most cases, and underneath a segment that contains the search phrase and where you can also go directly.
+Under the title of the Sutta you can see a blurb in most cases, and underneath you see the first segment in the text that contains the search phrase. Click the title to go tho the start of the Sutta, and the search phrase segment to go directly there.
 
 ### 2. Typing into the search field
 
