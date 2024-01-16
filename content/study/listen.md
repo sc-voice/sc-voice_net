@@ -19,5 +19,7 @@ Clicking the right play button in the play module or pressing `ENTER` starts con
 
 If your browser doesn't support the audio function, try Chrome or Firefox.
 
-**Selecting text to be played:**
-In settings > audio you can select what you wish to hear, independent from which texts are shown on your screen. It is possible for example to read Pali and translation, but to listen only to one of them. 
+**Selecting what to play:**
+In `settings > audio` you can select what you wish to hear, independent from which texts are shown on your screen. It is possible for example to read Pali and translation, but to listen only to one of them. 
+
+Reference texts cannot be listened to.
