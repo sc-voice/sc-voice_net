@@ -12,7 +12,7 @@ Behind the little gear wheel in the top right corner you find several settings t
 **General** 
 - Select your theme
 - Select the maximum number of search results
-- Turn GDPR notice on or off
+- Show or hide tutorials
 
 **Languages**
 - Select website language, translation language, and translator
@@ -24,7 +24,7 @@ Behind the little gear wheel in the top right corner you find several settings t
 - “Show SuttaCentral segment IDs” is required for certain functions like for example jumping to the first segment of a larger paragraph
 
 **Narrator** 
-- Select a narrator for your translation language and for Pali 
+- Select a narrator for your translation language and for Pali; no narrator available for reference texts 
 
 **Audio** 
 - Select a bell sound to indicate the end of a Sutta 
@@ -32,4 +32,4 @@ Behind the little gear wheel in the top right corner you find several settings t
 - Set the volume of the application sounds 
 
 **Advanced**
-- Settings that are mainly needed for specialized users
+- Settings mainly for specialized users
