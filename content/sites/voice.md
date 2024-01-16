@@ -1,6 +1,6 @@
 ---
 title: Voice.suttacentral.net
-description: Listen to Early Buddhist Texts (EBTs) and translations.
+description: Legacy Voice website
 link: https://voice.suttacentral.net
 img: voice.png
 img-alt: voice.suttacentral.net web page image
@@ -22,5 +22,7 @@ In addition, audio downloads are generated on demand for offline study.
 
 Please [support SuttaCentral](https://suttacentral.net/donations)
 in its efforts to bring the Buddha’s word to people all around the world.
+
+PLEASE NOTE: This site is technically outdated and will be shut down soon.
 
 
