@@ -24,10 +24,10 @@ using browser storage:
 
 ### Licences
 
-**EBT-Site software**
+**EBT-Site software**  
 The EBT-Site application software is provided under the
 [MIT License](https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE)
 
-**SuttaCentral content**
+**SuttaCentral content**  
 All Dhamma content provided on EBT-Sites is 
 [licensed by SuttaCentral](https://suttacentral.net/licensing)
