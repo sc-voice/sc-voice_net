@@ -14,7 +14,7 @@ SC-Voice is a website for the study of Early Buddhist Texts (EBT) from [SuttaCen
 
 To find more detailed instructions on how to use SC-Voice, and other information, go to the [main Wiki ToC](#/wiki/toc).
 
-To come back to this Welcome page card, you can always click the Home icon <a href="#/wiki/welcome" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a> in the top left corner. <span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg">
+To come back to this Welcome page card, you can always click the Home icon <a href="#/wiki/welcome" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a> in the top left corner. 
 
 ### Privacy and licenses
 
