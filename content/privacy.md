@@ -26,8 +26,8 @@ using browser storage:
 
 **EBT-Site software**  
 The EBT-Site application software is provided under the
-[MIT License](https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE)
+[MIT License](https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE).
 
 **SuttaCentral content**  
 All Dhamma content provided on EBT-Sites is 
-[licensed by SuttaCentral](https://suttacentral.net/licensing)
+[licensed by SuttaCentral](https://suttacentral.net/licensing).
