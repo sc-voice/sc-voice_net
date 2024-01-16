@@ -13,7 +13,7 @@ When hovering your mouse over a card links are highlighted.
 
 <img src="img/toc.png" alt="screenshot main ToC">
 
-To get back to the main ToC you can use the breadcrumbs at the top of the Wiki card:
+To get back to the main ToC or to another level you can use the breadcrumbs at the top of the Wiki card:
 
 <img src="img/breadcrumb.png" alt="screenshot breadcrumbs">
 
