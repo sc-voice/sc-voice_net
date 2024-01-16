@@ -36,7 +36,9 @@ In SC-Voice you can open several Sutta cards and/or search cards at the same tim
 
 ### 5. Comparing translations
 
-It is also possible to compare different translations of the same text (in one or different languages, according to availability) by selecting "show alternate reference" in `settings > text layout`, then select a reference language and translator. NOTE: Not all translators have translated all texts.
+It is also possible to compare different translations of the same text (in one or different languages, according to availability) by selecting "show alternate reference" in `settings > text layout`, then select a reference language and translator. 
+
+NOTE: Not all translators have translated all texts.
 
 ### 5. Go to individual segments
 
