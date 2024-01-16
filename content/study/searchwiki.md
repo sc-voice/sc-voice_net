@@ -17,4 +17,3 @@ To get back to the main ToC or to another level you can use the breadcrumbs at t
 
 <img src="img/breadcrumb.png" alt="screenshot breadcrumbs">
 
- style="height: 200px;"
