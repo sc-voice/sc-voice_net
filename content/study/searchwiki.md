@@ -9,7 +9,7 @@ order: 1.5
 
 When you are in the main Wiki ToC you can select a channel with the topic you are interested in, for example "Sutta sutdy with SC-Voice". Click to open the channel ToC. Select a card from there.
 
-When hovering your mouse over a card links are highlighted.
+When hovering your mouse over a card, links are highlighted.
 
 <img src="img/toc.png" alt="screenshot main ToC">
 
