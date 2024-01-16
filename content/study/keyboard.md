@@ -12,8 +12,8 @@ order: 2
 Content is presented within different types of **cards**:
 
 * *Wiki card:* shows website documentation, etc.
-* *Search cards:*  shows search terms and search results
-* *Sutta cards:* shows individual suttas for segmented documents from [SuttaCentral.net](https://suttacentral.net)
+* *Search card:*  shows search terms and search results
+* *Sutta card:* shows individual suttas for segmented documents from [SuttaCentral.net](https://suttacentral.net)
 
 Cards allow you to review multiple documents. 
 On wider screens, you will even be able to compare cards side-by-side.
