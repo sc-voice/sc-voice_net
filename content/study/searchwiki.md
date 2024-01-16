@@ -1,5 +1,5 @@
 ---
-title: Search Wiki
+title: Search the Wiki
 description: How to find a Wiki text
 img: wiki.png
 img-alt: picture of node network
