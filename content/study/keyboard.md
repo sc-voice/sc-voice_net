@@ -31,11 +31,11 @@ The tab that's currently in focus has a colored underline. When a Sutta card is 
 <p><img src="img/play.png" class="ebt-image" alt="screenshot of play module" style="width: 400px;"></p>
 
 The buttons here are from left to right: 
-- to previous segment
+- jump to previous segment
 - play segment in focus; pause play 
-- to highlighted segment 
+- jump to highlighted segment 
 - continuous play from segment in focus; pause play
-- to next segment
+- jump to next segment
 
 The segment in focus is highlighted by a darker color and a dotted border, its ID is found in the middle of the play module. 
 
