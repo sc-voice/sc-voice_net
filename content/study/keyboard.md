@@ -45,7 +45,7 @@ Active buttons are also highlighted by a dotted border.
 
 | Card | Key | Function |
 | :---- | :---- | :---- |
-| all | HOME | Select card tab
+| all | HOME | Select tab menu
 | all | CTRL-HOME | Go to Welcome page
 | all | TAB | Select next user interface element
 | all | SHIFT-TAB | Select previous user interface element
