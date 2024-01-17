@@ -11,9 +11,10 @@ order: 3
 
 EBT-Vue3 is the front-end development framework used by:
 
-* [voice.suttacentral.net](https://voice.suttacentral.net)
+* [EBT-Site](https://ebt-site.sc-voice.net/)
 * [sc-voice.net](https://sc-voice.net)
 * [Dhammaregen](https://dhammaregen.net)
+* More websites to be released in the future
 
 The framework supports the creation of custom websites
 based on the Early Buddhist Texts (EBTs) sourced
