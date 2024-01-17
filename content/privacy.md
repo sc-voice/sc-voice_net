@@ -14,8 +14,8 @@ This website does not store any personally identifiable information.
 
 ### Data stored
 
-For performance, and with your permission,
-this website will store the following information on your device
+For performance, 
+this website will store the following information *only* on your device
 using browser storage:
 
 * text of EBT documents loaded
