@@ -14,3 +14,5 @@ There you see a graphic representation of how the Sutta you are reading is conne
 - blue dots are examples—mouse hover shows the example text
 - other dots are connected Suttas, colored by Nikāya—mouse hover shows Sutta ID
 - bigger dots are Suttas that are highest in the relevance score for the respective example
+
+<img src="img/mn44-en.png" alt="graph of MN 44" style="padding: 0.4em; border-radius: 0.2em; background: #cccccc;">
