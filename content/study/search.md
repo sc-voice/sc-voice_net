@@ -40,7 +40,7 @@ It is also possible to compare different translations of the same text (in one o
 
 NOTE: Not all translators have translated all texts.
 
-### 5. Go to individual segments
+### 6. Go to individual segments
 
 When you click into a segment it will be highlighted. 
 
@@ -48,7 +48,7 @@ At the same time the segment ID appears in the middle of the play module at the 
 
 Even if you come back to this text from a different Sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
 
-### 6. Search terms within the text
+### 7. Search terms within the text
 The example terms used by SC-Voice are highlighted when they occur in a text as soon as you reach the respective segment. This way you can easily find interesting terms that invite a comparison between different texts. The terms have links. When clicking them, a search card opens up with Suttas that have this term. 
 
 
