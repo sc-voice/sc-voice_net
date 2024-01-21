@@ -16,4 +16,5 @@ There you see a graphic representation of how the Sutta you are reading is conne
 - blue dots are examples—mouse hover shows the example text
 - other dots are connected Suttas, colored by Nikāya—mouse hover shows Sutta ID
 - bigger dots are Suttas that are highest in the relevance score for the respective example
+- click on any dot to get a link that will take you to that sutta or example
 
