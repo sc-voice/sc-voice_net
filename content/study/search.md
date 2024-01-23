@@ -44,6 +44,8 @@ NOTE: Not all translators have translated all texts.
 
 When you click into a segment it will be highlighted. 
 
+<img src="img/segment.png" alt="screenshot of highlighted segment" style="height: 200px;">
+
 At the same time the segment ID appears in the middle of the play module at the bottom of your screen. When clicking on it you can move to the segment that has been last highlighted from any place in the text. 
 
 Even if you come back to this text from a different Sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
