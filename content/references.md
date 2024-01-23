@@ -10,13 +10,13 @@ order: 9998
 
 ### Images
 
-Unless otherwise specified, all image sources are linked from the individual image.
+Unless otherwise specified, click on an image to access its source.
 
 ### EBT audio
 
-EBT audio is purchased from Amazon Web Services Polly service and is shared without restriction.
+EBT audio is purchased from [Amazon Polly](https://aws.amazon.com/de/polly/) and is shared without restriction.
 
-Where possible, we have included human audio. In particular, many thanks to Bhikkhu Sujato for the recordings and MichaelH of SuttaCentral for audio editing.
+Where possible, we have included human audio. In particular, many thanks to Bhikkhu Sujato for the voice recordings and MichaelH of SuttaCentral for audio editing.
 
 ### Application sounds
 
