@@ -19,7 +19,7 @@ this website will store the following information *only* on your device
 using browser storage:
 
 * text of EBT documents loaded
-* audio of EBT documents narrated
+* audio of EBT documents loaded
 * your website custom settings
 
 ### Licences
