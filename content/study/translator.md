@@ -18,7 +18,7 @@ A "segmented translation" is one created using
 [Bilara](https://suttacentral.net/about?lang=en).
 Bilara maintains a strict one-to-one correspondence 
 between source and translated document at the
-level of a "text segment" (about a paragraph).
+level of a "text segment" (about a sentence).
 
 Since SuttaCentral Voice only supports segmented text,
 many translations available on SuttaCentral 
@@ -53,7 +53,10 @@ EBT-DeepL translations
 are offered here for 
 potential use as rough drafts for 
 eventual human translation under the 
-[MIT license](https://opensource.org/license/mit/)
+[MIT license](https://opensource.org/license/mit/).
 
+Many thanks to Gabriel Laera,
+Noéismet, and 
+Ayya Sabbamitta for helping with the EBT-DeepL project.
 For more information see 
 [ebt-deepl](https://github.com/sc-voice/ebt-deepl)
