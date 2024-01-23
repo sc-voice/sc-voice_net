@@ -15,7 +15,7 @@ Behind the little gear wheel in the top right corner you find several settings t
 - Show or hide tutorials
 
 **Languages**
-- Select website language, translation language, and translator
+- Select website language, translation language, and [translator](#/wiki/study/translator)
 
 **Text Layout** 
 - Tick what you wish to see on your screen
