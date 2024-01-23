@@ -1,6 +1,6 @@
 ---
 title: SuttaCentral
-description: Early Buddhist Texts (EBTs) and translations.
+description: Early Buddhist Texts (EBTs) and translations
 link: https://suttacentral.net
 img: suttacentral.png
 img-alt: Suttacentral web page
