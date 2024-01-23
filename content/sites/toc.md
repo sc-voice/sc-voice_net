@@ -8,6 +8,6 @@ slugDir: sites
 category: 2. Additional information
 order: 9997
 ---
-### Contents
-Websites for Early Buddhist Texts found on [SuttaCentral](https://suttacentral.net)
+
+The following websites all use the Early Buddhist Texts on [SuttaCentral](https://suttacentral.net)
 
