@@ -19,3 +19,5 @@ To come back to this main ToC card, you can always click the Home icon <a href="
 ### Privacy and licenses
 
 Find [here](#/wiki/privacy) our privacy and license information.
+
+### Content of the SC-Voice Wiki:
