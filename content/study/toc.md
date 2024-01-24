@@ -5,7 +5,7 @@ img: pixabay-literature-3091212_640.png
 link: https://pixabay.com/photos/literature-3091212
 img-alt: books with cup of tea
 slugDir: study
-category: 1. SC-Voice
+category: 1. Overview
 order: 2
 ---
 
