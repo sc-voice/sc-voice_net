@@ -1,6 +1,6 @@
 ---
-title: Table of contents
-description: Welcome and contents
+title: Welcome and contents
+description: Introduction to Wiki contents
 img: lotus-flower-nymphaea-caerulea-215460.jpg
 img-alt: Lotus flower
 link: https://pixabay.com/photos/lotus-flower-nymphaea-caerulea-215460/
