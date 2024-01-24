@@ -30,7 +30,7 @@ in its efforts to bring the Buddha’s word to people all around the world.
 
    EBT-Vue3 is currently used by:
    * [EBT-Site](https://ebt-site.sc-voice.net/)
-   * [sc-voice.net](https://sc-voice.net)
+   * [SC-Voice.net](https://sc-voice.net)
    * [Dhammaregen](https://dhammaregen.net)
    * More websites to be released in the future
 
