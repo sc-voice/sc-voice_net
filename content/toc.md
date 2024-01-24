@@ -1,6 +1,6 @@
 ---
 title: Welcome and contents
-description: Introduction to Wiki contents
+description: Introduction to SC-Voice
 img: lotus-flower-nymphaea-caerulea-215460.jpg
 img-alt: Lotus flower
 link: https://pixabay.com/photos/lotus-flower-nymphaea-caerulea-215460/
