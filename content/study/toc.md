@@ -6,7 +6,7 @@ link: https://pixabay.com/photos/literature-3091212
 img-alt: books with cup of tea
 slugDir: study
 category: 1. Overview
-order: 2
+order: 1000
 ---
 
 ### Learn how to use SC-Voice in order to study Early Buddhist Texts
