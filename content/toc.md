@@ -35,4 +35,5 @@ You can also click the [home key](https://en.wikipedia.org/wiki/Home_key) on you
 Find instructions on how to search the Wiki section [here](#/wiki/study/searchwiki).
 </details>
 
-### Contents
+Explore more of the wiki below...
+
