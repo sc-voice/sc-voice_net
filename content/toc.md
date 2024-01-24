@@ -20,17 +20,13 @@ summary:hover {
 <details>
 <summary>What is a "card"?</summary>
 SuttaCentral Voice organizes information with "cards".
-This is the "The Wiki Card".
-The wiki card displays wiki content that
-describes how to use all the cards in 
-SuttaCentral Voice:
 
-* <b>The Wiki Card</b> shows wiki content (i.e., "wiki cards")
+* <b>Wiki Cards</b> show you wiki content that help you use this website
 * <b>Search Cards</b> let you find Dhamma content
 * <b>Sutta Cards</b> show you individual Dhamma documents such as suttas
-* <b>Graph cards</b> show you memorable connections between Dhamma documents
+* <b>Graph Cards</b> show you memorable connections between Dhamma documents
 
-Click the 
+This is the home wiki card.  Click the 
 <a href="#/wiki/toc" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default">
 <span class="v-btn__content">
 <span aria-hidden="true" class="v-icon notranslate theme--dark">
