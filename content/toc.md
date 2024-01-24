@@ -30,13 +30,16 @@ SuttaCentral Voice:
 * <b>Sutta Cards</b> show you individual Dhamma documents such as suttas
 * <b>Graph cards</b> show you memorable connections between Dhamma documents
 
-To return to the wiki card, just click the 
+Click the 
 <a href="#/wiki/toc" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default">
 <span class="v-btn__content">
 <span aria-hidden="true" class="v-icon notranslate theme--dark">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg">
 <path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z">
-</path></svg></span></span></a> in the top left corner. 
+</path></svg></span></span></a>
+in the top left corner
+of the web page
+to return here, the home/welcome wiki card.
 </details>
 
 Explore more wiki cards below...
