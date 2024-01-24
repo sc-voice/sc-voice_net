@@ -46,8 +46,8 @@ Active buttons are also highlighted by a dotted border.
 
 | Card | Key | Function |
 | :---- | :---- | :---- |
-| all | HOME | Go to top of currently opened Wiki page
-| all | CTRL-HOME | Go to Welcome/ToC page
+| all | HOME | Go to top of page
+| all | CTRL-HOME | Go to Home card
 | all | TAB | Select next user interface element
 | all | SHIFT-TAB | Select previous user interface element
 | sutta | UP | Select previous segment in sutta
