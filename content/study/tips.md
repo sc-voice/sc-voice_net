@@ -1,6 +1,6 @@
 ---
 title: Some tips for beginners
-description: How to start with Sutta study
+description: How to start with sutta study
 img: nick-fewings-psV7OMIL-iw-unsplash.png
 img-alt: image of signpost
 link: https://unsplash.com/photos/psV7OMIL-iw
