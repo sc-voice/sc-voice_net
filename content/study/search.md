@@ -12,7 +12,7 @@ Start by opening [a search card](#/search//en) by clicking on the <a href="#/sea
 
 If you don't know where to start, click on the `INSPIRE ME!` button. This will select a random term from a collection of example search terms, and will show it together with the corresponding results:
 
-<p><img src="img/result.png" class="ebt-image" alt="screenshot of search result" style="width: 600px;"></p>
+<p><img src="img/result.png" class="ebt-image" alt="screenshot of search result" style="width: 600px; padding: 0.4em; border-radius: 0.2em; background: #cccccc;"></p> 
 
 Under the title of the Sutta you can see some blurb in most cases, and underneath that, you see the first segment in the text that contains the search phrase. Click the title to go tho the start of the Sutta, or the search phrase segment to go directly there.
 
