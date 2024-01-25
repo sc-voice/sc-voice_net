@@ -49,7 +49,7 @@ in its efforts to bring the Buddha’s word to people all around the world.
 1. [Voice.suttacentral.net](https://voice.suttacentral.net)  
    *Legacy Voice website*
 
-   Voice was the first app of this website family to provide audio for selected Early Buddhist Texts (EBTs) and translations available on [SuttaCentral](https://suttacentral.net).
+   Voice was the first app of this website family to provide audio for selected Early Buddhist Texts (EBTs) and translations sourced fromn [SuttaCentral](https://suttacentral.net).
 
    Designed for the vision impaired, Voice has a minimalist user interface that works best with screenreaders. Voice has an audio player that can be used to listen to the EBTs while reading them. In addition, audio downloads are generated on demand for offline study.
 
