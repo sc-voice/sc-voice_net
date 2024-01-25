@@ -24,12 +24,12 @@ On wider screens, you will even be able to compare cards side-by-side.
 Each card has a **tab** that can be clicked to scroll to the associated card.
 
 <p>
-<img src="img/tabs.png" class="ebt-image" alt="image of card tabs" style="width:400px;"/>
+<img src="img/tabs.png" class="ebt-image" alt="image of card tabs" style="width:400px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"/>
 </p>
 
 The tab that's currently in focus has a colored underline. When a Sutta card is in focus, a play module appears at the bottom of the screen.
 
-<p><img src="img/play.png" class="ebt-image" alt="screenshot of play module" style="width: 400px;"></p>
+<p><img src="img/play.png" class="ebt-image" alt="screenshot of play module" style="width: 400px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"></p>
 
 The buttons here are from left to right: 
 - jump to previous segment
