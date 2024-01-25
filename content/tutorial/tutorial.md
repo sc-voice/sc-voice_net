@@ -11,7 +11,7 @@ ${appName} lets you read and hear Early Buddhist Text (EBT)
 content from [SuttaCentral.net](https://suttacentral.net).
 ${appName} shows content using one or more _cards_:
 
-* This page is on the <b>Wiki card</b>
+* This page is on the <b>Home wiki card</b>
 * <b>Search cards</b> let you search for EBT content 
 * <b>Sutta cards</b> let you read/play EBT content 
 
