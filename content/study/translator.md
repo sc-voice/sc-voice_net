@@ -9,7 +9,7 @@ order: 5
 ### What translators are available?
 The translations offered on SuttaCentral Voice are all 
 based in whole or part on 
-the Mahasangiti Pali _segmented translations_ 
+the _Mahāsaṅgīti Pali segmented translations_ 
 maintained in 
 [SuttaCentral](https://suttacentral.net)
 in accordance with the
@@ -23,8 +23,6 @@ level of a "text segment" (about a sentence).
 Since SuttaCentral Voice only supports segmented text,
 many translations available on SuttaCentral 
 are simply not available on SuttaCentral Voice.
-This restriction necessarily limits the selection of
-translators. 
 As more translators use Bilara, SuttaCentral Voice
 will automatically show new translators as options.
 
