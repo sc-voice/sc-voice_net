@@ -14,7 +14,7 @@ If you don't know where to start, click on the `INSPIRE ME!` button. This will s
 
 <p><img src="img/result.png" class="ebt-image" alt="screenshot of search result" style="width: 600px; padding: 0.4em; border-radius: 0.2em; background: #cccccc;"></p> 
 
-Under the title of the Sutta you can see some blurb in most cases, and underneath that, you see the first segment in the text that contains the search phrase. Click the title to go tho the start of the Sutta, or the search phrase segment to go directly there.
+Under the title of the sutta you can see some blurb in most cases, and underneath that, you see the first segment in the text that contains the search phrase. Click the title to go tho the start of the sutta, or the search phrase segment to go directly there.
 
 ### 2. Typing into the search field
 
@@ -22,15 +22,15 @@ If you are looking for a specific topic, start typing a word into the search fie
 
 <p><img src="img/searchfield.png" class="ebt-image" alt="schreenshot of search field with term water and results" style="height: 300px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"></p>
 
-You can also enter free text into the search field or search Suttas by ID, for example `AN 10.61` or `an10.61`.
+You can also enter free text into the search field or search suttas by ID, for example `AN 10.61` or `an10.61`.
 
-### 3. Go to next/previous Sutta or to SuttaCentral
+### 3. Go to next/previous sutta or to SuttaCentral
 
-Find links to the next or previous Sutta according to the order of the canon as well as a link to the respective text on SuttaCentral both at the top and the bottom of the Sutta card. 
+Find links to the next or previous sutta according to the order of the canon as well as a link to the respective text on SuttaCentral both at the top and the bottom of the sutta card. 
 
-### 4. Comparing Suttas
+### 4. Comparing suttas
 
-In SC-Voice you can open several Sutta cards and/or search cards at the same time and navigate between them via the tab menu in the top left corner. 
+In SC-Voice you can open several sutta cards and/or search cards at the same time and navigate between them via the tab menu in the top left corner. 
 
 <p><img src="img/tabs.png" class="ebt-image" alt="screenshot of tab menu" style="width: 400px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"></p>
 
@@ -48,10 +48,10 @@ When you click into a segment it will be highlighted.
 
 At the same time the segment ID appears in the middle of the play module at the bottom of your screen. When clicking on it you can move to the segment that has been last highlighted from any place in the text. 
 
-Even if you come back to this text from a different Sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
+Even if you come back to this text from a different sutta, the segment that has been clicked last will still be highlighted. This way it is easy to look at a different Sutta for comparison and on coming back, find the place where you have last been reading. 
 
 ### 7. Search terms within the text
-The example terms used by SC-Voice are highlighted when they occur in a text as soon as you reach the respective segment. This way you can easily find interesting terms that invite a comparison between different texts. The terms have links. When clicking them, a search card opens up with Suttas that have this term. 
+The example terms used by SC-Voice are highlighted when they occur in a text as soon as you reach the respective segment. This way you can easily find interesting terms that invite a comparison between different texts. The terms have links. When clicking them, a search card opens up with suttas that have this term. 
 
 
 
