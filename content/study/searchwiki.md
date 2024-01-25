@@ -17,5 +17,5 @@ To get back to the main ToC or to another level you can use the breadcrumbs at t
 
 <img src="img/breadcrumb.png" alt="screenshot breadcrumbs">
 
-In this screenshot, "study" will take you to the ToC of the "study" channel, while "wiki" takes you to the main Wiki ToC.
+In the screenshot above, "study" will take you to the ToC of the "study" channel, while "wiki" takes you to the main Wiki ToC.
 
