@@ -6,7 +6,7 @@ img-alt: picture of sutta graph
 order: 3.5
 ---
 
-To each Sutta you can open a graph card by clicking the graph icon <img src="img/graphicon.png" alt="graph icon"> in the top right corner.
+For each Sutta you can open a graph card by clicking the graph icon <img src="img/graphicon.png" alt="graph icon"> in the top right corner.
 
 There you see a graphic representation of how the Sutta you are reading is connected with other Suttas by the examples of the `INSPIRE ME!` list.
 
