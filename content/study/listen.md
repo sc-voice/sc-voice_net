@@ -1,5 +1,5 @@
 ---
-title: Listen to the Suttas
+title: Listen to the suttas
 description: SC-Voice audio output
 img: alphacolor-2FxEBbEO6Fo-unsplash.png
 img-alt: image of earphones
