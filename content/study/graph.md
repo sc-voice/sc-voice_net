@@ -13,8 +13,8 @@ There you see a graphic representation of how the sutta you are reading is conne
 <img src="img/mn44-en.png" alt="graph of MN 44" style="padding: 0.4em; border-radius: 0.2em; background: #cccccc;">
 
 - the biggest dot is the sutta from which the graph card has been opened
-- blue dots are examples—mouse hover shows the example text
+- blue dots are key phrases—mouse hover shows the text of the phrase
 - other dots are connected suttas, colored by nikāya—mouse hover shows sutta ID
-- bigger dots are suttas that are highest in the relevance score for the respective example
-- click on any dot to get a link that will take you to that sutta or example
+- bigger dots are suttas that are highest in the relevance score for the respective key phrase
+- click on any dot to get a link that will take you to that sutta or key phrase
 
