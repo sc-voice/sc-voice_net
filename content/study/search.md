@@ -20,7 +20,7 @@ Under the title of the Sutta you can see some blurb in most cases, and underneat
 
 If you are looking for a specific topic, start typing a word into the search field that you remember from context. For example you may want to find one of the similes about “water”. Type “water” and select from the search terms that appear. 
 
-<p><img src="img/searchfield.png" class="ebt-image" alt="schreenshot of search field with term water and results" style="height: 300px;"></p>
+<p><img src="img/searchfield.png" class="ebt-image" alt="schreenshot of search field with term water and results" style="height: 300px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"></p>
 
 You can also enter free text into the search field or search Suttas by ID, for example `AN 10.61` or `an10.61`.
 
@@ -32,7 +32,7 @@ Find links to the next or previous Sutta according to the order of the canon as 
 
 In SC-Voice you can open several Sutta cards and/or search cards at the same time and navigate between them via the tab menu in the top left corner. 
 
-<p><img src="img/tabs.png" class="ebt-image" alt="screenshot of tab menu" style="width: 400px;"></p>
+<p><img src="img/tabs.png" class="ebt-image" alt="screenshot of tab menu" style="width: 400px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"></p>
 
 ### 5. Comparing translations
 
@@ -44,7 +44,7 @@ NOTE: Not all translators have translated all texts.
 
 When you click into a segment it will be highlighted. 
 
-<img src="img/segment.png" alt="screenshot of highlighted segment" style="height: 200px;">
+<img src="img/segment.png" alt="screenshot of highlighted segment" style="height: 200px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;">
 
 At the same time the segment ID appears in the middle of the play module at the bottom of your screen. When clicking on it you can move to the segment that has been last highlighted from any place in the text. 
 
