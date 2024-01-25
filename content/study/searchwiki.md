@@ -1,13 +1,13 @@
 ---
-title: Search the Wiki
-description: How to find a Wiki text
+title: Search the wiki
+description: How to find a wiki text
 img: wiki.png
 img-alt: picture of node network
 link: https://pixabay.com/de/illustrations/system-netz-nachrichten-netzwerk-927154/
 order: 1.5
 ---
 
-When you are in the main Wiki ToC you can select a channel (section) with the topic you are interested in, for example "Sutta sutdy with SC-Voice". Click to open the channel ToC. Select a card from there.
+When you are in the main wiki ToC you can select a channel (section) with the topic you are interested in, for example "Sutta sutdy with SC-Voice". Click to open the channel ToC. Select a card from there.
 
 When hovering your mouse over a card, links are highlighted.
 
@@ -17,5 +17,5 @@ To get back to the main ToC or to another level you can use the breadcrumbs at t
 
 <img src="img/breadcrumb.png" alt="screenshot breadcrumbs" style="padding: 0.4em; border-radius: 0.2em;background: #cccccc;">
 
-In the screenshot above, "study" will take you to the ToC of the "study" channel, while "wiki" takes you to the main Wiki ToC.
+In the screenshot above, "study" will take you to the ToC of the "study" channel, while "wiki" takes you to the main wiki ToC.
 
