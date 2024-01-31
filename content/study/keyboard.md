@@ -44,20 +44,20 @@ Active buttons are also highlighted by a dotted border.
 
 ### Keyboard navigation
 
-| Card | Key | Function |
-| :---- | :---- | :---- |
-| all | HOME | Go to top of page
-| all | CTRL-HOME | Go to home wiki card
-| all | TAB | Select next user interface element
-| all | SHIFT-TAB | Select previous user interface element
-| sutta | UP | Select previous segment in sutta
-| sutta | DOWN | Select next segment in sutta
-| sutta | CTRL-UP | Select first segment in sutta
-| sutta | CTRL-DOWN | Select last segment in sutta
-| sutta | SHIFT-UP | Select first segment in group or prior group
-| sutta | SHIFT-DOWN | Select first segment in next group
-| sutta | SPACE | Play current segment or stop existing playback
-| sutta | ENTER | Play from current segment to end of sutta 
-| tabs | LEFT-ARROW | Select previous tab 
-| tabs | RIGHT-ARROW | Select next tab
+| Card | Key | Mac | Function |
+| :---- | :---- | :---- | :---- |
+| all | HOME | ⌘-UP | Go to top of page
+| all | CTRL-HOME | ⌘-LEFT-ARROW | Go to home wiki card
+| all | TAB | TAB | Select next user interface element
+| all | SHIFT-TAB | SHIFT-TAB | Select previous user interface element
+| sutta | UP | UP | Select previous segment in sutta
+| sutta | DOWN | DOWN | Select next segment in sutta
+| sutta | CTRL-UP | ⌘-UP | Select first segment in sutta
+| sutta | CTRL-DOWN | ⌘-DOWN | Select last segment in sutta
+| sutta | SHIFT-UP | SHIFT_UP | Select first segment in group or prior group
+| sutta | SHIFT-DOWN | SHIFT_DOWN | Select first segment in next group
+| sutta | SPACE | SPACE | Play current segment or stop existing playback
+| sutta | ENTER | ENTER | Play from current segment to end of sutta 
+| tabs | LEFT-ARROW | LEFT_ARROW | Select previous tab 
+| tabs | RIGHT-ARROW | RIGHT_ARROW | Select next tab
 
