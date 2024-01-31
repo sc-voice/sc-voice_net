@@ -54,10 +54,10 @@ Active buttons are also highlighted by a dotted border.
 | sutta | DOWN | DOWN | Select next segment in sutta
 | sutta | CTRL-UP | ⌘-UP | Select first segment in sutta
 | sutta | CTRL-DOWN | ⌘-DOWN | Select last segment in sutta
-| sutta | SHIFT-UP | SHIFT_UP | Select first segment in group or prior group
-| sutta | SHIFT-DOWN | SHIFT_DOWN | Select first segment in next group
+| sutta | SHIFT-UP | SHIFT-UP | Select first segment in group or prior group
+| sutta | SHIFT-DOWN | SHIFT-DOWN | Select first segment in next group
 | sutta | SPACE | SPACE | Play current segment or stop existing playback
 | sutta | ENTER | ENTER | Play from current segment to end of sutta 
-| tabs | LEFT-ARROW | LEFT_ARROW | Select previous tab 
-| tabs | RIGHT-ARROW | RIGHT_ARROW | Select next tab
+| tabs | LEFT-ARROW | LEFT-ARROW | Select previous tab 
+| tabs | RIGHT-ARROW | RIGHT-ARROW | Select next tab
 
