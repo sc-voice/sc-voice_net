@@ -58,6 +58,8 @@ Active buttons are also highlighted by a dotted border.
 | sutta | SHIFT-DOWN | SHIFT-DOWN | Select first segment in next group
 | sutta | SPACE | SPACE | Play current segment or stop existing playback
 | sutta | ENTER | ENTER | Play from current segment to end of sutta 
+| sutta | CTRL-SPACE | ⌘-SPACE | Play from current segment to end of sutta 
+| sutta | SHIFT-SPACE | SHIFT-SPACE | Play from current segment to end of sutta 
 | tabs | LEFT-ARROW | LEFT-ARROW | Select previous tab 
 | tabs | RIGHT-ARROW | RIGHT-ARROW | Select next tab
 
