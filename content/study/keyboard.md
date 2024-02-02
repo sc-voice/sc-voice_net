@@ -21,7 +21,7 @@ On wider screens, you will even be able to compare cards side-by-side.
 
 ### Card tabs
 
-Each card has a **tab** that can be clicked to scroll to the associated card.
+Each card has a **tab** that can be clicked to go to the associated card.
 
 <p>
 <img src="img/tabs.png" class="ebt-image" alt="image of card tabs" style="width:400px; padding: 0.4em; border-radius: 0.2em;background: #cccccc;"/>
@@ -58,7 +58,7 @@ Active buttons are also highlighted by a dotted border.
 | sutta | SHIFT-DOWN | SHIFT-DOWN | Select first segment in next group
 | sutta | SPACE | SPACE | Play current segment or stop existing playback
 | sutta | ENTER | ENTER | Play from current segment to end of sutta 
-| sutta | CTRL-SPACE | ⌘-SPACE | Play from current segment to end of sutta 
+| sutta | CTRL-SPACE | | Play from current segment to end of sutta 
 | sutta | SHIFT-SPACE | SHIFT-SPACE | Play from current segment to end of sutta 
 | tabs | LEFT-ARROW | LEFT-ARROW | Select previous tab 
 | tabs | RIGHT-ARROW | RIGHT-ARROW | Select next tab
