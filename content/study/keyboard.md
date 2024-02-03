@@ -46,16 +46,16 @@ Active buttons are also highlighted by a dotted border.
 
 | Card | Key | Mac | Function |
 | :---- | :---- | :---- | :---- |
-| all | HOME | ⌘-UP | Go to top of page
+| all | HOME | ⌘-UP-ARROW | Go to top of page
 | all | CTRL-HOME | ⌘-LEFT-ARROW | Go to home wiki card
 | all | TAB | TAB | Select next user interface element
 | all | SHIFT-TAB | SHIFT-TAB | Select previous user interface element
-| sutta | UP | UP | Select previous segment in sutta
-| sutta | DOWN | DOWN | Select next segment in sutta
-| sutta | CTRL-UP | ⌘-UP | Select first segment in sutta
-| sutta | CTRL-DOWN | ⌘-DOWN | Select last segment in sutta
-| sutta | SHIFT-UP | SHIFT-UP | Select first segment in group or prior group
-| sutta | SHIFT-DOWN | SHIFT-DOWN | Select first segment in next group
+| sutta | UP-ARROW | UP-ARROW | Select previous segment in sutta
+| sutta | DOWN-ARROW | DOWN-ARROW | Select next segment in sutta
+| sutta | CTRL-UP-ARROW | ⌘-UP-ARROW | Select first segment in sutta
+| sutta | CTRL-DOWN-ARROW | ⌘-DOWN-ARROW | Select last segment in sutta
+| sutta | SHIFT-UP-ARROW | SHIFT-UP-ARROW | Select first segment in group or prior group
+| sutta | SHIFT-DOWN-ARROW | SHIFT-DOWN-ARROW | Select first segment in next group
 | sutta | SPACE | SPACE | Play current segment or stop existing playback
 | sutta | ENTER | ENTER | Play from current segment to end of sutta 
 | sutta | CTRL-SPACE | | Play from current segment to end of sutta 
