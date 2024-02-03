@@ -65,5 +65,5 @@ Active buttons are also highlighted by a dotted border.
 | tabs | LEFT-ARROW | LEFT-ARROW | Select previous tab 
 | tabs | RIGHT-ARROW | RIGHT-ARROW | Select next tab
 
-/* depending on operation system
+* depending on operation system
 
