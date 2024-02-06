@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <style>
+      body {
+        font-family: Roboto, sans-serif;
+        background-color: black;
+        color: white;
+        padding: 2em;
+        align-text: center;
+      }
+      a {
+        color: rgb(255, 153, 51);
+      }
+    </style>
+  </head>
+  <body>
+    <!--
+    /scv/index.html#/sutta?search=mn44&lang=de
+    -->
+    <h3>voice.suttacentral.net has <span id="newlink">moved</span></h3>
+    <script>
+    {
+      let newlink = document.getElementById('newlink');
+      let { hash } = location;
+      let queryParms = hash.replace(/^[^?]*\?/,'').split('&');
+      let { search, lang } = queryParms.reduce((a,p)=>{
+        let [ key, value ] = p.split('=');
+        switch (key) {
+          case 'search':
+            a.search = value;
+            break;
+          case 'lang':
+            a.lang = value;
+            break;
+        }
+        return a;
+      }, { search: '', lang:'en' });
+
+      let scvUrl = 
+        `https://www.api.sc-voice.net/scv/ebt-site/${search}/${lang}`
+      let anchor = `<a href="${scvUrl}">moved</a>`
+      newlink.innerHTML = anchor;
+
+      console.log("Navigating to", scvUrl);
+      window.location = scvUrl;
+    }
+    </script>
+  </body>
+</html>
