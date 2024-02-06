@@ -3,7 +3,7 @@ title: Translators
 description: Choosing translators
 img: budista.jpg
 img-alt: image of dictionary
-order: 5
+order: 3.7
 ---
 
 ### What translators are available?
