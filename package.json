@@ -5,10 +5,10 @@
   "main": "src/index.mjs",
   "private": false,
   "dependencies": {
-    "ebt-vue3": "^1.424.13",
+    "ebt-vue3": "^1.424.22",
     "scv-esm": "^1.87.0",
     "vue": "^3.2.37",
-    "vuetify": "^3.5.2",
+    "vuetify": "^3.5.3",
     "webfontloader": "^1.0.0"
   },
   "devDependencies": {
