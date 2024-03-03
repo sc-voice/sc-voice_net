@@ -2,17 +2,19 @@ const EbtConfig = {
   "appName": "SC-Voice.net",
   "basePath": "/",
   "homePath": "#/wiki/toc",
-  "tutorialPath": "#/wiki/tutorial/tutorial",
   "content": {
     "index": "toc",
   },
   "footnotes": "Footnotes",
-  "privacyLink": "#/wiki/privacy",
-  "monolingual": false,
   "github": {
     "account": "sc-voice",
-    "repository": "sc-voice3"
-  }
+    "repository": "sc-voice3",
+  },
+  //"maxPlayMinutes": 30,
+  //"monolingual": "en",
+  "privacyLink": "#/wiki/privacy",
+  //"searchDropdown": 50,
+  "tutorialPath": "#/wiki/tutorial/tutorial",
 }
 
 export default EbtConfig;
