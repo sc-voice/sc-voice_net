@@ -28,9 +28,9 @@ Behind the little gear wheel in the top right corner you find several settings t
 - Select a narrator for your translation language and for Pali; for reference texts there's no narrator available
 - Choose among several play options
   - Until end of current sutta
-  - repeat current sutta
-  - until end of collection
-  - select also your play time
+  - Repeat current sutta
+  - Until end of collection
+  - Select also your play time
 
 **Sounds** 
 - Select a bell sound to indicate the end of a Sutta 
