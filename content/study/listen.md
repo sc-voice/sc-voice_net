@@ -19,7 +19,11 @@ Clicking the right play button in the play module or pressing `ENTER` starts con
 
 If your browser doesn't support the audio function, try Chrome or Firefox.
 
-**To select what to play:**
-In `settings > audio` you can select what you wish to hear, independent from which texts are shown on your screen. It is possible for example to read Pali and translation, but to listen only to one of them. 
+**To select what to play and how to play it:**
+In `settings > narration` you can select what you wish to hear, independent from which texts are shown on your screen. It is possible for example to read Pali and translation, but to listen only to one of them. 
 
 Reference texts cannot be listened to.
+
+You can play until the end of the current sutta or listen to that sutta repeatedly or else play until the end of the collection, for example AN book of the Ones. Also select your play time.
+
+
