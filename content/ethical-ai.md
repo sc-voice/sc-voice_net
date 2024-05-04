@@ -1,3 +1,12 @@
+---
+title: Ethical AI
+description: Declaration of AI content
+img: jason-dent-JFk0dVyvdvw-unsplash.png
+link: https://unsplash.com/photos/JFk0dVyvdvw
+img-alt: Ethical AI
+category: 1. Overview
+order: 9999
+---
 # Ethical AI
 
 ### Code of Content
