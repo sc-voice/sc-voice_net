@@ -1,8 +1,8 @@
 ---
 title: Welcome and contents
 description: Introduction to SC-Voice
-img: lotus-flower-nymphaea-caerulea-215460.jpg
-img-alt: Lotus flower
+img: sc-voice-icon.svg
+img-alt: Triple swirl
 link: https://pixabay.com/photos/lotus-flower-nymphaea-caerulea-215460/
 order: 1
 ---
