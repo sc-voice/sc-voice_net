@@ -25,6 +25,7 @@ SuttaCentral Voice organizes information with "cards".
 * <b>Search Cards</b> let you find Dhamma content
 * <b>Sutta Cards</b> show you individual Dhamma documents such as suttas
 * <b>Graph Cards</b> show you memorable connections between Dhamma documents
+* <b>Pali Cards</b> let you explore the [multilingual](https://github.com/sc-voice/ms-dpd) [Digital Pali Dictionary](https://dpdict.net).
 
 This is the home wiki card.  Click the 
 <a href="#/wiki/toc" class="scv-icon-btn v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default">
