@@ -1,10 +1,10 @@
 ---
-title: Custom web sites
-description: Design a language-specific SC-Voice.net website
-img: pexels-kaboompics-com-6444.png
+title: Custom sc-voice.net websites
+description: Create and maintain a language-specific SC-Voice.net website
+img: scv-logo-wiki.png
 img-alt: Design graphic
-link>: https://www.pexels.com/photo/black-pencils-and-design-word-6444/
-category: 1. General
+link: /img/scv-logo-wiki.png
+category: 2. Additional information
 order: 2
 ---
 
