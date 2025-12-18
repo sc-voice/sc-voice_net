@@ -1,6 +1,6 @@
 {
   "name": "ebt-site3",
-  "version": "1.65.416",
+  "version": "1.69.1",
   "description": "Site template for EBT-Vue3 applications",
   "main": "src/index.mjs",
   "private": false,
@@ -12,8 +12,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
-    "cmark-gfm": "^0.9.0",
-    "esm": "^3.2.25",
     "json": "^11.0.0",
     "markdown-it": "^13.0.1",
     "markdown-it-footnote": "^3.0.3",
